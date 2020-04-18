@@ -1,1 +1,2 @@
 LOG fist note in Log edit branch
+LOG second note
