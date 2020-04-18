@@ -1,1 +1,2 @@
 ﻿Òðåòèé êîììèò ïîñëå push . Fird commite mergered to main
+main after mergering commit 
