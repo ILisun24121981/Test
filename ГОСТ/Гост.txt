@@ -1,1 +1,1 @@
-Òðåòèé êîììèò ïîñëå push . Fird commit without push
+﻿Òðåòèé êîììèò ïîñëå push . Fird commite mergered to main
