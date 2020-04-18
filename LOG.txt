@@ -1,1 +1,2 @@
 Fist note in master branch
+Master brench preparet to merge with LOG branch 
