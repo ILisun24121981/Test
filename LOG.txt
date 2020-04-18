@@ -1,2 +1,3 @@
 LOG fist note in Log edit branch
 LOG second note
+Last commit before mergered s
