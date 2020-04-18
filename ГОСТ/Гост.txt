@@ -1,1 +1,1 @@
-Второй коммит после push . Second commit without push
+Третий коммит после push . fird commit without push
